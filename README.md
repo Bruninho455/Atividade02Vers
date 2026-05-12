@@ -11,3 +11,4 @@ console.log("ALERTA: LIMITE EXCEDIDO!");
 } else {
 console.log("Sistema normal.");
 }
+Assinatura: Assinatura do Paulo dia 12/05
