@@ -13,3 +13,6 @@ console.log("Sistema normal.");
 }
 Assinatura: Assinatura do Paulo dia 12/05
 Assinatura: Assinatura do Bruno e do Pedro Luis dia 12/05
+
+////
+Azul é uma cor legalmente legal.
