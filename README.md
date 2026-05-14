@@ -15,4 +15,4 @@ Assinatura: Assinatura do Paulo dia 12/05
 Assinatura: Assinatura do Bruno e do Pedro Luis dia 12/05
 
 ////
- eu gosto da cor preta poque ela é bonita. Mas a azul é mais bonita por ser clara.
+ eu gosto da cor preta poque ela é bonita. Mas a azul é mais bonita por ser clara.- teste teste teste.
