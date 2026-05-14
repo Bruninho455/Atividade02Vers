@@ -16,3 +16,5 @@ Assinatura: Assinatura do Bruno e do Pedro Luis dia 12/05
 
 ////
  eu gosto da cor preta poque ela é bonita. Mas a azul é mais bonita por ser clara.- teste teste teste.
+ eu não gosto da cor preta.
+ 
