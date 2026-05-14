@@ -15,4 +15,4 @@ Assinatura: Assinatura do Paulo dia 12/05
 Assinatura: Assinatura do Bruno e do Pedro Luis dia 12/05
 
 ////
-Azul é uma cor legalmente legal.
+ eu gosto da cor preta poque ela é bonita.
